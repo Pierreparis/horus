@@ -14,7 +14,7 @@ My application with phonegapbuild!
     <author href="PAS ENCORE DE SITE" email="PAS D'EMAIL POUR L'INSTANT">
        Pierre LABEL NGONGO OTTOU
     </author>
-	<platform name="android" />
+
 	<splash src="logo.png" density="land-hdpi"/>
 	<icon src="logo.png" width="150" height="150" />
 </widget>
